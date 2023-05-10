@@ -23,13 +23,6 @@ Feel free to visit [my repositories](https://github.com/khanhhung111?tab=reposit
 
 ---
 
-### <📊> GitHub stats </📊>
-
-
-[![Bugahontas' GitHub stats](https://github-readme-stats.vercel.app/api?username=bugahontas&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/bugahontas) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugahontas&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/bugahontas) 
-| ----------- | ------------ |
-
----
 
 ### <📫> How to reach me </📫>
 
