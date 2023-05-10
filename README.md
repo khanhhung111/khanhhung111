@@ -13,7 +13,7 @@ My name is Hung and I'm a Vietnamese **front-end developer**. I'm here on GitHub
 - Contribute to third-party projects;
 - Get inspiration and new ideas!
 
-Feel free to visit [my repositories](https://github.com/khanhhung111). Doubts or suggestions, please open an issue and let's talk!
+Feel free to visit [my repositories](https://github.com/khanhhung111?tab=repositories). Doubts or suggestions, please open an issue and let's talk!
 
 ---
 
