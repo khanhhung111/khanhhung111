@@ -4,29 +4,9 @@
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+,+I'm+Hung+%F0%9F%91%8B" alt="Headline" />
     </div>
-
-### <🌹> About me </🌹>
-
-My name is Hung and I'm a Vietnamese **front-end developer**. I'm here on GitHub to:
-- Share my codes;
-- Learn more about front-end technologies;
-- Contribute to third-party projects;
-- Get inspiration and new ideas!
-
-Feel free to visit [my repositories](https://github.com/khanhhung111?tab=repositories). Doubts or suggestions, please open an issue and let's talk!
-
----
-
-### <🛠> Tech Stack </🛠>
-
-![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![VSCode badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git badge](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-
 ### <📫> How to reach me </📫>
 
-[![Github badge](https://img.shields.io/badge/khanhhung-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khanhhung111) [![Gmail badge](https://img.shields.io/badge/hungtvkde160432@fpt.edu.vn-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hungtvkde160432@fpt.edu.vn)
+[![Github badge](https://img.shields.io/badge/khanhhung-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khanhhung111) [![Gmail badge](https://img.shields.io/badge/tvkhung2002@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tvkhung2002@gmail.com)
 
 ---
 
