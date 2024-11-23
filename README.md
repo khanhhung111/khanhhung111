@@ -9,7 +9,3 @@
 <📫> How to reach me </📫>
 
 [![Github badge](https://img.shields.io/badge/khanhhung-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khanhhung111) [![Gmail badge](https://img.shields.io/badge/tvkhung2002@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tvkhung2002@gmail.com)
-
----
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
